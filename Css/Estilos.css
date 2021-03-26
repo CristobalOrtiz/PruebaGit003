@@ -1,0 +1,46 @@
+/*poniendo cosas bonitas*/
+
+h1{
+    color:rgb(0, 91, 119);
+    text-align: center;
+    font-family: nunito;
+}
+
+/*clase de parrafos uwu*/
+
+.AMOAPOKE{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: cambria;
+    font-size: 25px;
+}
+
+/*sirve para centrar y ajustar fotos :)*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+/*color del fonden uwu*/
+body{
+    background-color: rgb(255, 255, 255);
+}
+/*poner foto?*/
+
+
+
+.imgfondo {
+    background-image: url("../img/fondo.png");
+   }
+
+.fondoDiv{
+    background-color:#D2E899;
+}
+.x{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
